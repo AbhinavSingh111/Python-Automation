@@ -1,3 +1,5 @@
+# headless mode
+
 # first create a driver.
 # A driver allows us to interact with the website using selenium
 
