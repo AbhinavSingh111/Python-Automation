@@ -9,3 +9,4 @@ tables.export('ab.csv',f='csv',compress=True)
 tables[0].to_csv('ab.csv')
 
 # for some reasons camelot is not working , the vs code is choosing PyPDF2 in order to handle the pdf
+#
